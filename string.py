@@ -2,7 +2,7 @@ first_name = "walid"
 last_name = "Hossain"
 gpa = 4.00
 
-full_name = f"{first_name} {last_name}. \n\tYou got gpa {gpa}"
+full_name = f"{first_name} {last_name}. You got gpa {gpa}"
 print(full_name.title())
 
 name = "            nehayel         "
