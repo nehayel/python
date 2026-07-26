@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dd9e6-1a28-434c-8528-2da858f32367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/list_organization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicing_and_copying.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +42,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.indentation.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.list_elements.executor": "Run",
     "Python.list_operation.executor": "Run",
     "Python.list_organization.executor": "Run",
     "Python.main.executor": "Run",
     "Python.numbers.executor": "Run",
+    "Python.practice_list.executor": "Run",
+    "Python.range.executor": "Run",
+    "Python.slicing_and_copying.executor": "Run",
     "Python.string.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
