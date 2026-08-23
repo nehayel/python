@@ -1,3 +1,4 @@
-food = ["biriyani", "hotdog", "apple", "orrange", "lemon", "banana"]
-fav = "hotdog"
-sec_fav = "apple"
+if 10:
+    print("this is walid")
+else:
+    print("this is not walid")
