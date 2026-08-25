@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dd9e6-1a28-434c-8528-2da858f32367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deep_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nesting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/special_things.py" beforeDir="false" afterPath="$PROJECT_DIR$/special_things.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
     "Python.deep_dictionary.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.indentation.executor": "Run",
+    "Python.input.executor": "Run",
     "Python.list.executor": "Run",
     "Python.list_elements.executor": "Run",
     "Python.list_operation.executor": "Run",
