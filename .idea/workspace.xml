@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dd9e6-1a28-434c-8528-2da858f32367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_argument.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Python.deep_dictionary.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.function_argument.executor": "Run",
     "Python.indentation.executor": "Run",
     "Python.input.executor": "Run",
     "Python.list.executor": "Run",
