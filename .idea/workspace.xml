@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dd9e6-1a28-434c-8528-2da858f32367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function_argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/returing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.numbers.executor": "Run",
     "Python.practice_list.executor": "Run",
     "Python.range.executor": "Run",
+    "Python.returing.executor": "Run",
     "Python.slicing_and_copying.executor": "Run",
     "Python.special_things.executor": "Run",
     "Python.string.executor": "Run",
