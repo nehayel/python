@@ -7,6 +7,6 @@ def even_odd(num):
 even_odd(2)
 
 def power(num, pow):
-    print(num ** pow)
+    return num * pow
 
 power(2, 2)
