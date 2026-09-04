@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dd9e6-1a28-434c-8528-2da858f32367" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/final_funtion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +40,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.10_problem.executor": "Run",
+    "Python.classes.executor": "Run",
     "Python.conditional.executor": "Run",
     "Python.deep_dictionary.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.encapsulation.executor": "Run",
     "Python.final_funtion.executor": "Run",
     "Python.function.executor": "Run",
     "Python.function_argument.executor": "Run",
