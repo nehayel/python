@@ -5,26 +5,23 @@ class cars:
         self.year = year
         self.__odometer = 0
 
-    def print_cars_details(self):
-        print(f"the car brand name is {self.brand}")
-        print(f"the car model is {self.model}")
-        print(f"the year is {self.year}")
+    def print_car_details(self):
+        print(f"the car brand is {self.brand}")
+        print(f"the model is {self.model}")
+        print(f"the release year is {self.year}")
 
     def get_odometer(self):
         return self.__odometer
-    def set_odometer(self, mileages):
-        if self.__odometer > mileages:
-             print("You Can not roll back odometer")
+    def set_odometer(self, mileage):
+        if self.__odometer > mileage:
+            print("you can't roll it")
         else:
-            self.__odometer = mileages
+            self.__odometer = mileage
 
+ford = cars(brand="Ford", model="Mustang", year=1964)
+ford.print_car_details()
+ford.set_odometer(1200)
+print(ford.get_odometer())
 
-
-the_car = cars("BMW", "I8", "2020")
-
-the_car.print_cars_details()
-print(the_car.get_odometer())
-the_car.set_odometer(1000)
-print(the_car.get_odometer())
-the_car.set_odometer(50)
-print(the_car.get_odometer())
+ford.set_odometer(3000)
+print(ford.get_odometer())

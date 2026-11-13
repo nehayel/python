@@ -1,13 +1,12 @@
-class animals:
+class animal:
     def __init__(self, type, name):
         self.type = type
         self.name = name
 
-    def print_name(self):
-        print(f"the dogs name is {self.name}")
+    def print_f(self):
+        print(f"the animal name is {self.name}")
+dog = animal(type="dog", name="tommy")
+dog.print_f()
 
-dog = animals("dog", "walid")
-dog.print_name()
-
-cat = animals("cage", "hilfigure")
-cat.print_name()
+cat = animal(type="cat", name="fuck")
+cat.print_f()
